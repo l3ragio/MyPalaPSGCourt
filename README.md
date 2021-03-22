@@ -35,3 +35,13 @@ Comandi:
 - usa A,W,S,D per far rotolare la palla
 - usa la barra spaziatrice per farla saltare (più si preme più alto è il salto)
 - sposta il mouse a destra e sinistra per muovere la visuale
+
+Screenshoots:
+--------------------------------------------------------------------------------
+
+![pala-psg0](https://user-images.githubusercontent.com/48380612/112008257-9b456800-8b25-11eb-814d-c6faf68ffd7d.PNG)
+
+
+
+![pala-psg1](https://user-images.githubusercontent.com/48380612/112008289-a1d3df80-8b25-11eb-81d9-94a79a6f36c6.PNG)
+
