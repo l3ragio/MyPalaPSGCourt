@@ -16,6 +16,7 @@ Recomandations:
 Commands:
 - use A,W,S,D to make the ball roll in any direction
 - use the space bar to make it jump (the more you press the higher the jump) 
+- move the mouse right and left to move the camera
 
 IT:
 
@@ -33,3 +34,4 @@ Raccomandazioni:
 Comandi:
 - usa A,W,S,D per far rotolare la palla
 - usa la barra spaziatrice per farla saltare (più si preme più alto è il salto)
+- sposta il mouse a destra e sinistra per muovere la visuale
