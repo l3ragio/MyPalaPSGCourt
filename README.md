@@ -45,3 +45,8 @@ Screenshoots:
 
 ![pala-psg1](https://user-images.githubusercontent.com/48380612/112008289-a1d3df80-8b25-11eb-81d9-94a79a6f36c6.PNG)
 
+![pala-psg2](https://user-images.githubusercontent.com/48380612/112008877-2e7e9d80-8b26-11eb-866b-a3278c850c35.PNG)
+
+![pala-psg3](https://user-images.githubusercontent.com/48380612/112008899-33435180-8b26-11eb-8026-eb14c94ac93a.PNG)
+
+
