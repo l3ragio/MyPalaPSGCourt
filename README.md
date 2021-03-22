@@ -12,6 +12,7 @@ Mini-game inspired by the basketball court of Ponte San Giovanni, Perugia, Italy
 
 Recomandations: 
 - set the game's graphic resolution between "Fastest" and "Simple" to achieve better performances (otherwhise could be difficult make the ball jump high enough to score points)
+- in order to exit the game use left-Alt+Tab then right-click on the Unity icon and choose "close window"
 
 Commands:
 - use A,W,S,D to make the ball roll in any direction
@@ -30,18 +31,19 @@ Mini-gioco inspirato al playground di Ponte San Giovanni, Perugia, Italia - prog
 
 Raccomandazioni:
 - imposta la risoluzione grafica tra "Fastest" e "Simple" per ottenere migliori prestazioni (altrimenti potrebbe essere difficile far saltare la palla abbastanza in alto da segnare punti)
+- per uscire dal gioco premi Alt-(di sinistra)+Tab, click destro sull'icona di Unity e scegli "chiudi finestra"
 
 Comandi:
-- usa A,W,S,D per far rotolare la palla
-- usa la barra spaziatrice per farla saltare (più si preme più alto è il salto)
+- premi A,W,S,D per far rotolare la palla
+- premi la barra spaziatrice per farla saltare (più si preme più alto è il salto)
 - sposta il mouse a destra e sinistra per muovere la visuale
+
+
 
 Screenshoots:
 --------------------------------------------------------------------------------
 
 ![pala-psg0](https://user-images.githubusercontent.com/48380612/112008257-9b456800-8b25-11eb-814d-c6faf68ffd7d.PNG)
-
-
 
 ![pala-psg1](https://user-images.githubusercontent.com/48380612/112008289-a1d3df80-8b25-11eb-81d9-94a79a6f36c6.PNG)
 
