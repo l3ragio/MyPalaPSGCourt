@@ -19,6 +19,8 @@ Commands:
 - use the space bar to make it jump (the more you press the higher the jump) 
 - move the mouse right and left to move the camera
 
+--------------------------------------------------------------------------------
+
 IT:
 
 Mini-gioco inspirato al playground di Ponte San Giovanni, Perugia, Italia - progetto di Realtà Virtuale 2016/2017
